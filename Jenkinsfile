@@ -18,7 +18,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                sh 'git clone https://github.com/MAH76915/DevOps-repo.git .'
+                sh 'git clone https://github.com/tahmusk123/devops_project.git .'
             }
         }
 
